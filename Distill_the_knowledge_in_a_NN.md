@@ -1,5 +1,5 @@
 ### Distill knowledge
-Many works including <Beyason dark knowledge> try to transfer "knowledge" from "teacher" to "student". \
+Many works including Beyason dark knowledge try to transfer "knowledge" from "teacher" to "student". \
 I think the main idea here ia to consider knowledge as a "learned mapping from input vectors to output vectors" , and we know that NN can similate any functions. This is so-called ""Distilling the knowledge".
 But Why do this?
 Because in apllication, we don't really care how a model is trained. Efficiency is another key point.
